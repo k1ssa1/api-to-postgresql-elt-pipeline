@@ -8,6 +8,10 @@ Unlike a traditional ETL pipeline, the raw data is first loaded into PostgreSQL 
 
 The project explores the application of database normalization principles (1NF, 2NF, and 3NF) to convert semi-structured JSON data into a structured relational model.
 
+The complete case study article is published on dev.to :
+
+https://dev.to/kitchen_code/incremental-relational-normalization-of-semi-structured-api-product-data-an-elt-pipeline-case-study-54l1
+
 ---
 
 ## Objectives
